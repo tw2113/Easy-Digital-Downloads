@@ -439,7 +439,7 @@ add_action( 'edd_purchase_form_after_cc_form', 'edd_checkout_tax_fields', 999 );
 
 /**
  * Renders the user registration fields. If the user is logged in, a login
- * form is displayed other a registration form is provided for the user to
+ * form is displayed otherwise a registration form is provided for the user to
  * create an account.
  *
  * @since 1.0
